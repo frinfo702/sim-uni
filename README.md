@@ -1,8 +1,12 @@
 # 2024-AW-Simulation-Engineering
 シミュレーション工学の授業内で使うコード
 
-## TODO
+# 使い方
+```
+pip install git+https://github.com/frinfo702/2024-AW-Simulation-Engineering.git
+```
 
+## TODO
 ### 課題1-1
 ![alt text](image.png)
 - [ ] オイラー法の実装 

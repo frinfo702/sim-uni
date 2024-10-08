@@ -1,9 +1,16 @@
 # 2024-AW-Simulation-Engineering
 シミュレーション工学の授業内で使うコード
 
-# 使い方
+## 使い方
 ```
 pip install git+https://github.com/frinfo702/2024-AW-Simulation-Engineering.git
+```
+
+## 使用例
+```python
+from frinfo_library import function1
+result = function1(10)
+print(result)
 ```
 
 ## TODO
